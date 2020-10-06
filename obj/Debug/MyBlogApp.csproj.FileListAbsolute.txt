@@ -80,3 +80,14 @@ D:\github\MyBlogApp\obj\Debug\MyBlogApp.csproj.CoreCompileInputs.cache
 D:\github\MyBlogApp\obj\Debug\MyBlogApp.csproj.CopyComplete
 D:\github\MyBlogApp\obj\Debug\MyBlogApp.dll
 D:\github\MyBlogApp\obj\Debug\MyBlogApp.pdb
+D:\github\MyBlogApp\bin\BenchmarkDotNet.Core.dll
+D:\github\MyBlogApp\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\github\MyBlogApp\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\github\MyBlogApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\github\MyBlogApp\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\github\MyBlogApp\bin\Microsoft.Win32.Registry.dll
+D:\github\MyBlogApp\bin\System.Threading.Tasks.Extensions.dll
+D:\github\MyBlogApp\bin\BenchmarkDotNet.Core.xml
+D:\github\MyBlogApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\github\MyBlogApp\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\github\MyBlogApp\bin\System.Threading.Tasks.Extensions.xml
